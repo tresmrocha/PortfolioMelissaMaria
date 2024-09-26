@@ -76,7 +76,7 @@ article{
             overflow-y: scroll;
             margin: 0 auto 20px auto;
             height: 456px;
-            width: 855px;
+            width: 860px;
             .caixa{
                 display: flex;
                 flex-direction: column;
